@@ -1,2 +1,1 @@
-# Calculo_salario_Data_Scientist
-Generación de funciones teniendo en cuenta códigos de error y el manejo de estos. 
+Se desarrolló una función específica destinada a ser empleada dentro de un conjunto más amplio de funciones con el objetivo principal de optimizar y agilizar el flujo de trabajo. El propósito del código es solicitar al usuario la entrada de dos valores clave: el número de horas trabajadas y el costo por hora. Con base en estos parámetros, y considerando diferentes casos y condiciones predefinidas, la función ejecuta diversas operaciones y cálculos específicos.
